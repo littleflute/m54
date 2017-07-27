@@ -1,0 +1,16 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Silver Stallion.mp3";		
+f[2]	= "02 American Remains.mp3";		
+f[3]	= "03 Desperados Waiting for a Train.mp3";		
+f[4]	= "04 Casey's Last Ride.mp3";		
+f[5]	= "05 Welfare Line.mp3";		
+f[6]	= "06 The Ballad of Forty Dollars.mp3";		
+f[7]	= "07 Don't Cuss the Fiddle.mp3";		
+f[8]	= "08 Big River.mp3";		
+f[9]	= "09 Against the Wind.mp3";		
+f[10]	= "10 Eye of the Storm.mp3";		
+f[11]	= "11 The Human Condition.mp3";		
+f[12]	= "12 Living Legend.mp3";		
+f[13]	= "13 The Greatest Cowboy of Them All.mp3";		
+f[14]	= "Highwayman.mp3";		
